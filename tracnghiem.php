@@ -3,7 +3,7 @@
 PHẦN 1: TRẮC NGHIỆM
 
 Câu 1: C
-Câu 2: B
+Câu 2: A
 Câu 3: A
 Câu 4: B
 Câu 5: B
