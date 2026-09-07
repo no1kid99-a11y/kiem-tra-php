@@ -1,4 +1,3 @@
-<?php
 
 /*
 PHẦN 1: TRẮC NGHIỆM
